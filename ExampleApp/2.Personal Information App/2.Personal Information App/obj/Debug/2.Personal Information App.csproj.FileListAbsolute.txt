@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\bin\Debug\2.Personal Information App.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\bin\Debug\2.Personal Information App.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\bin\Debug\2.Personal Information App.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\obj\Debug\_2.Personal_Information_App.PersonalInformationApp.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\obj\Debug\_2.Personal_Information_App.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\obj\Debug\2.Personal Information App.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\obj\Debug\2.Personal Information App.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\2.Personal Information App\2.Personal Information App\obj\Debug\2.Personal Information App.pdb

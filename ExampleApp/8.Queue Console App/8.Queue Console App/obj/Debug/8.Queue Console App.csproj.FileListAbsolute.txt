@@ -1,0 +1,6 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\8.Queue Console App\8.Queue Console App\bin\Debug\8.Queue Console App.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\8.Queue Console App\8.Queue Console App\bin\Debug\8.Queue Console App.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\8.Queue Console App\8.Queue Console App\bin\Debug\8.Queue Console App.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\8.Queue Console App\8.Queue Console App\obj\Debug\8.Queue Console App.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\8.Queue Console App\8.Queue Console App\obj\Debug\8.Queue Console App.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\8.Queue Console App\8.Queue Console App\obj\Debug\8.Queue Console App.pdb

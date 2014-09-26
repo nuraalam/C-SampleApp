@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\bin\Debug\12.dictonary app.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\bin\Debug\12.dictonary app.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\bin\Debug\12.dictonary app.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\obj\Debug\_12.dictonary_app.DictonaryApp.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\obj\Debug\_12.dictonary_app.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\obj\Debug\12.dictonary app.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\obj\Debug\12.dictonary app.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\12.dictonary app\12.dictonary app\obj\Debug\12.dictonary app.pdb

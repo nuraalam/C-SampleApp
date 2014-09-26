@@ -1,0 +1,9 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\bin\Debug\4.Conditional Statment Practice.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\bin\Debug\4.Conditional Statment Practice.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\bin\Debug\4.Conditional Statment Practice.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\obj\Debug\4.Conditional Statment Practice.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\obj\Debug\_4.Conditional_Statment_Practice.ConditionalStatementPracticeApp.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\obj\Debug\_4.Conditional_Statment_Practice.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\obj\Debug\4.Conditional Statment Practice.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\obj\Debug\4.Conditional Statment Practice.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\4.Conditional Statment Practice\4.Conditional Statment Practice\obj\Debug\4.Conditional Statment Practice.pdb

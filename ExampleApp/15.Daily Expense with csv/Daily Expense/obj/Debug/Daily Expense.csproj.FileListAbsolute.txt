@@ -1,0 +1,19 @@
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\bin\Debug\Daily Expense.exe.config
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\bin\Debug\Daily Expense.exe
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\bin\Debug\Daily Expense.pdb
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\bin\Debug\CSVLib.dll
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\obj\Debug\Daily_Expense.DailyExpenseApp.resources
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\obj\Debug\Daily_Expense.Properties.Resources.resources
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\obj\Debug\Daily Expense.csproj.GenerateResource.Cache
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\obj\Debug\Daily Expense.exe
+C:\Users\PC21\Desktop\labtest\Daily Expense\Daily Expense\obj\Debug\Daily Expense.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\bin\Debug\Daily Expense.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\obj\Debug\Daily Expense.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\obj\Debug\Daily Expense.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\bin\Debug\Daily Expense.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\bin\Debug\Daily Expense.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\bin\Debug\CSVLib.dll
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\obj\Debug\Daily_Expense.DailyExpenseApp.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\obj\Debug\Daily_Expense.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\obj\Debug\Daily Expense.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\15.Daily Expense with csv\Daily Expense\obj\Debug\Daily Expense.csprojResolveAssemblyReference.cache

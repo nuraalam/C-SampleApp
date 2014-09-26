@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\bin\Debug\6.InterestCalculatorApp.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\bin\Debug\6.InterestCalculatorApp.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\bin\Debug\6.InterestCalculatorApp.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\obj\Debug\_6.InterestCalculatorApp.Form1.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\obj\Debug\_6.InterestCalculatorApp.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\obj\Debug\6.InterestCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\obj\Debug\6.InterestCalculatorApp.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\6.InterestCalculatorApp\6.InterestCalculatorApp\obj\Debug\6.InterestCalculatorApp.pdb

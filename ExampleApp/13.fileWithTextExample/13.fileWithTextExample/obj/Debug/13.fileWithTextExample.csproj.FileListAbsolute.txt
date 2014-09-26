@@ -1,0 +1,9 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\bin\Debug\13.fileWithTextExample.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\obj\Debug\13.fileWithTextExample.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\obj\Debug\_13.fileWithTextExample.Form1.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\obj\Debug\_13.fileWithTextExample.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\obj\Debug\13.fileWithTextExample.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\bin\Debug\13.fileWithTextExample.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\bin\Debug\13.fileWithTextExample.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\obj\Debug\13.fileWithTextExample.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\13.fileWithTextExample\13.fileWithTextExample\obj\Debug\13.fileWithTextExample.pdb

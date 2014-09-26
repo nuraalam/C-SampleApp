@@ -1,0 +1,9 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\bin\Debug\WindowsForm Hello WOrld.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\bin\Debug\WindowsForm Hello WOrld.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\bin\Debug\WindowsForm Hello WOrld.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\obj\Debug\WindowsForm Hello WOrld.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\obj\Debug\WindowsForm_Hello_WOrld.HelloWorld.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\obj\Debug\WindowsForm_Hello_WOrld.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\obj\Debug\WindowsForm Hello WOrld.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\obj\Debug\WindowsForm Hello WOrld.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\WindowsForm Hello WOrld\WindowsForm Hello WOrld\obj\Debug\WindowsForm Hello WOrld.pdb

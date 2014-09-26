@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\bin\Debug\14.fileWithTxt for Employee Salary.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\obj\Debug\_14.fileWithTxt_for_Employee_Salary.Form1.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\obj\Debug\_14.fileWithTxt_for_Employee_Salary.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\obj\Debug\14.fileWithTxt for Employee Salary.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\bin\Debug\14.fileWithTxt for Employee Salary.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\bin\Debug\14.fileWithTxt for Employee Salary.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\obj\Debug\14.fileWithTxt for Employee Salary.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\14.fileWithTxt for Employee Salary\14.fileWithTxt for Employee Salary\obj\Debug\14.fileWithTxt for Employee Salary.pdb

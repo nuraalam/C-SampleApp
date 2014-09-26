@@ -1,0 +1,9 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\bin\Debug\11.Userdefine Type Example.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\bin\Debug\11.Userdefine Type Example.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\bin\Debug\11.Userdefine Type Example.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\obj\Debug\11.Userdefine Type Example.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\obj\Debug\_11.Userdefine_Type_Example.personalInformation.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\obj\Debug\_11.Userdefine_Type_Example.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\obj\Debug\11.Userdefine Type Example.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\obj\Debug\11.Userdefine Type Example.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\11.Userdefine Type Example\11.Userdefine Type Example\obj\Debug\11.Userdefine Type Example.pdb

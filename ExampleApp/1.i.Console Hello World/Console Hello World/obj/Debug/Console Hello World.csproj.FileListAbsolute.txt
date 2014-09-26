@@ -1,0 +1,12 @@
+C:\Users\Hafiz\Desktop\basis\Projects\3.Sept16 project\Console Hello World\Console Hello World\bin\Debug\Console Hello World.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\3.Sept16 project\Console Hello World\Console Hello World\bin\Debug\Console Hello World.exe
+C:\Users\Hafiz\Desktop\basis\Projects\3.Sept16 project\Console Hello World\Console Hello World\bin\Debug\Console Hello World.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\3.Sept16 project\Console Hello World\Console Hello World\obj\Debug\Console Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Hafiz\Desktop\basis\Projects\3.Sept16 project\Console Hello World\Console Hello World\obj\Debug\Console Hello World.exe
+C:\Users\Hafiz\Desktop\basis\Projects\3.Sept16 project\Console Hello World\Console Hello World\obj\Debug\Console Hello World.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\1.i.Console Hello World\Console Hello World\bin\Debug\Console Hello World.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\1.i.Console Hello World\Console Hello World\obj\Debug\Console Hello World.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\1.i.Console Hello World\Console Hello World\obj\Debug\Console Hello World.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\1.i.Console Hello World\Console Hello World\bin\Debug\Console Hello World.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\1.i.Console Hello World\Console Hello World\bin\Debug\Console Hello World.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\1.i.Console Hello World\Console Hello World\obj\Debug\Console Hello World.csprojResolveAssemblyReference.cache

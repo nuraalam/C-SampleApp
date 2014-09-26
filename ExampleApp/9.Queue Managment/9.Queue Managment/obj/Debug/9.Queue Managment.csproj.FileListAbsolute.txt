@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\bin\Debug\9.Queue Managment.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\bin\Debug\9.Queue Managment.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\bin\Debug\9.Queue Managment.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\obj\Debug\_9.Queue_Managment.QueueManagementApp.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\obj\Debug\_9.Queue_Managment.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\obj\Debug\9.Queue Managment.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\obj\Debug\9.Queue Managment.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\9.Queue Managment\9.Queue Managment\obj\Debug\9.Queue Managment.pdb

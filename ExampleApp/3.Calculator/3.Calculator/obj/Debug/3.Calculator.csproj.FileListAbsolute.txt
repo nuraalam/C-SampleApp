@@ -1,0 +1,8 @@
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\bin\Debug\3.Calculator.exe.config
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\bin\Debug\3.Calculator.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\bin\Debug\3.Calculator.pdb
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\obj\Debug\_3.Calculator.Calculator.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\obj\Debug\_3.Calculator.Properties.Resources.resources
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\obj\Debug\3.Calculator.csproj.GenerateResource.Cache
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\obj\Debug\3.Calculator.exe
+C:\Users\Hafiz\Desktop\basis\Projects\All C# Example for Exam Preparation\3.Calculator\3.Calculator\obj\Debug\3.Calculator.pdb
